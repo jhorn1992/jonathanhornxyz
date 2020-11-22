@@ -1,3 +1,5 @@
 Page about Education
   List majors and classes taken
   Example http://camitzel.weebly.com/education.html
+Page about me
+Page about my volunteer experience
